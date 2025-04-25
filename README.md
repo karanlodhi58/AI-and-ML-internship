@@ -1,1 +1,1 @@
-# AI-and-ML-internship
+# AI-and-ML-task 1
